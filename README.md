@@ -41,8 +41,9 @@ I am an ardent learner of technology and an aspiring **Data Engineer** with a pa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meghadaniel04&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghadaniel04&layout=compact&theme=transparent&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meghadaniel04&show_icons=true&theme=transparent&hide_border=true" alt="Megha's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghadaniel04&layout=compact&theme=transparent&hide_border=true" alt="Megha's Top Languages" />
+</p>
 </div>

@@ -40,10 +40,7 @@ I am an ardent learner of technology and an aspiring **Data Engineer** with a pa
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=meghadaniel04&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="Megha's GitHub Stats" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghadaniel04&show_icons=true&theme=transparent&hide_border=true" alt="Megha's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghadaniel04&layout=compact&theme=transparent&hide_border=true" alt="Megha's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghadaniel04&theme=transparent&hide_border=true" alt="Megha's GitHub Streak Stats" />
 </p>
 </div>
